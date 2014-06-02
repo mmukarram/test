@@ -3,4 +3,6 @@ Git Sandbox
 
 A sandbox to test git workflows.
 
-- A bullet point
+=======
+- Bullet 1
+- Bullet 2
