@@ -1,4 +1,4 @@
-test
+Git Sandbox
 ====
 
-Git sandbox
+A sandbox to test git workflows.
